@@ -14,3 +14,8 @@ When starting up, the application reads one configuration setting and writes tha
 Configuration files, such as `appsettings.Development.json`, are typically files that you exclude from source control in the [`.gitignore`](.gitignore) file. Usually, I create a markdown file that describes the contents and schema of the configuration file that has been excluded, to make it easier for new developers to get going.
 
 Have a look at [`appsettings.Development.json.md`](AspNetCoreApp/appsettings.Development.json.md) for details.
+
+
+## Live Demo
+
+There is a live demo of this application available on Azure. [Have a look!](https://secure-settings-demo-web.azurewebsites.net/)
